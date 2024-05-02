@@ -1,18 +1,13 @@
 <h1 align="center">⭐Hello, I am Dylan Ezequiel Correa⭐</h1>
 <h2 align="center">A enthusiastic Web Developer from Argentina!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="feryaeljustice_profileviews" /> </p>
 
 - I'm a professional Android / Web developer for several years, including ethical hacking & linux knowledge.
-- 📫 How to reach me: **nano9gs@hotmail.es** or **fgonzalezserrano10@gmail.com**
-- [General Portfolio](https://feryael-justice.jimdosite.com/portfolio/)
-- [DJ Portfolio](https://feryaeljustice.github.io/feryael-justice-dj-portfolio/)
-- [Notion General Portfolio (spanish)](https://feryaeljustice.notion.site/Porfolio-de-desarrollador-b3c80a7dfe884895a534a3fc6807f681)
-- [Notion DJ Portfolio (spanish)](https://feryaeljustice.notion.site/Porfolio-de-DJ-9dedae8a5e254e509e8c6744fa7a047d)
+- 📫 Reach me with: **d.correa.e05@gmail.com** or **dylanlegall18@gmail.com**
 
 ## Contact me:
 
-- [![Email](https://img.shields.io/badge/email-3DDC84?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:nano9gs@hotmail.es)
+- [![Email](https://img.shields.io/badge/email-3DDC84?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:d.correa.e05@gmailcom)
 - [![LinkedIn](https://img.shields.io/badge/linkedin-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/feryael-justice/)
 
 ## Experience:
