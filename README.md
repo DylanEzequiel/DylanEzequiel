@@ -5,8 +5,8 @@
 - 📫 Reach me with: **d.correa.e05@gmail.com** or **dylanlegall18@gmail.com**
 
 ### Who i am?
-> I am a student that wants to change the world, not doing a big change at once, but doing small changes that are important.
-> Some things that i like are: playing volleyball, going o the gym, cooking, organize my space and other thing, every day i try to discover something new.
+> I am a student that wants to change the world, not by doing a big change at once, but doing small changes that are important.
+> Some things that i like are: playing volleyball, going to the gym, cooking, organize my personal space and other thing, every day i try to discover something new.
 > 
 
 
@@ -17,12 +17,7 @@
 
 ## Experience:
 
-<br/>
-experience a
-<br/>
-experience b
-<br/>
-
+> Most of my experience is based from what a i learned from my course, in Soy Henry, the repositorys with my projects that i did are here: 
 
 ## Skills:
 - leadership
@@ -47,6 +42,9 @@ experience b
 
 [![NodeJS](https://img.shields.io/badge/nodejs%20-%23DD0031.svg?&style=for-the-badge&logo=nodejs&logoColor=white&labelColor=101010)](#)
 [![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
+[![Tailwind](https://img.shields.io/badge/Tailwind-00B3FF?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF
+)](#)
+
 [![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=101010)](#)
 [![Vue](https://img.shields.io/badge/vue%20-%2320232a.svg?&style=for-the-badge&logo=vue&logoColor=%2361DAFB&labelColor=101010)](#)
 [![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&labelColor=101010)](#)
